@@ -1,0 +1,16 @@
+{
+  "id": "5133174",
+  "name": "1",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "30898688",
+      "name": "洛谷",
+      "font_class": "luogu",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    }
+  ]
+}
