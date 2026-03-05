@@ -51,7 +51,7 @@ npm install -g pnpm
 项目拉取。
 
 ```bash
-git clone https://github.com/Garbage-fish/vitepress-theme-teek.git
+git clone https://github.com/Garbage-fish/vitepress-theme-teek-template.git
 ```
 
 依赖安装。
